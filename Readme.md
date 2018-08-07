@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Lenok Us](https://up.htmlacademy.ru/htmlcss/22/user/681559).
+* Наставник: [Евгений Закурдаев](https://htmlacademy.ru/profile/eugeno)
 
 ---
 
